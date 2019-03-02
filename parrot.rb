@@ -1,6 +1,6 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot(puts = 'Squawk!', phrase = 'Pretty Bird!')
+def parrot(puts = 'Pretty Bird!', phrase = 'Squawk!')
   phrase
-  puts Pretty Bird!
+  puts
 end
